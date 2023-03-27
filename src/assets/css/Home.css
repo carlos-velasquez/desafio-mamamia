@@ -1,0 +1,19 @@
+.background{
+    padding-top: 7rem;
+}
+.titulo {
+    color: white;
+    font-size: 50px;
+    margin: 0;
+}
+
+.subtitulo {
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+
+hr{
+    display: inline-block;
+}
